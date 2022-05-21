@@ -1,2 +1,2 @@
 # odin_proj1
-First odin complect project
+First odin complete project
